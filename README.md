@@ -1,7 +1,7 @@
 ## 💫 About Me:
-Hi, I'm Wilson and I like making games, which will never be finished or published, in Unity using C#<br>
-I'm currently working on my hobby multiplayer FPS game, like CS and VALORANT<br>
-I'm also studying a bachelor's degree in Production Engineering at UESC, before I was doing a bachelor's degree in Physics, and I intend to migrate to Computer Science
+Hi, I'm Wilson and I like making games, which will never be finished or published, in Unity using C#.<br>
+I'm currently working on my hobby multiplayer FPS game, like CS and VALORANT.<br>
+I'm also studying a bachelor's degree in Production Engineering at UESC, before I was doing a bachelor's degree in Physics, and I intend to migrate to Computer Science.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilssola)
