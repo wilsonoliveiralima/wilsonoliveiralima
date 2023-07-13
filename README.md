@@ -4,7 +4,7 @@ I'm currently working on my hobby multiplayer FPS game, like CS and VALORANT<br>
 I'm also studying a bachelor's degree in Production Engineering at UESC, before I was doing a bachelor's degree in Physics, and I intend to migrate to Computer Science
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilsonoliveiralima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilssola)
 
 ## 💻 Preferred Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
