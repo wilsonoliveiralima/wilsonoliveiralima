@@ -32,6 +32,6 @@ I'm also studying a bachelor's degree in Production Engineering at UESC, before 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonoliveiralima&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wilsonoliveiralima&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=wilssola&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
