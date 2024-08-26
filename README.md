@@ -4,7 +4,7 @@ I'm currently doing some work, as a freelancer, and, as a hobby, developing a mu
 I'm also studying a bachelor's degree in Production Engineering at UESC, before I was doing a bachelor's degree in Physics, and I intend to migrate to Computer Science.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilsonoliveiralima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wilssola)
 
 ## 💻 Preferred Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -27,11 +27,11 @@ I'm also studying a bachelor's degree in Production Engineering at UESC, before 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=wilsonoliveiralima&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=wilsonoliveiralima&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonoliveiralima&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=wilssola&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=wilssola&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wilssola&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wilsonoliveiralima&icon=0&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=wilssola&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
